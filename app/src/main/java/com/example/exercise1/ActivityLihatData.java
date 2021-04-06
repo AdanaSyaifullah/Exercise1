@@ -26,43 +26,43 @@ public class ActivityLihatData extends AppCompatActivity {
         switch (nama)
         {
             case "Inayah":
-                tvnama.setText("ANA A");
+                tvnama.setText("Inayah");
                 tvnomor.setText("082222222221");
                 break;
             case "Ilham":
-                tvnama.setText("ANI I");
+                tvnama.setText("Ilham");
                 tvnomor.setText("082222222222");
                 break;
             case "Eris":
-                tvnama.setText("ANU U");
+                tvnama.setText("Eris");
                 tvnomor.setText("082222222223");
                 break;
             case "Fikri":
-                tvnama.setText("ANE E");
+                tvnama.setText("Fikri");
                 tvnomor.setText("082222222224");
                 break;
             case "Maul":
-                tvnama.setText("ANO O");
+                tvnama.setText("Maul");
                 tvnomor.setText("082222222225");
                 break;
             case "Intan":
-                tvnama.setText("ANA A");
+                tvnama.setText("Intan");
                 tvnomor.setText("082222222221");
                 break;
             case "Vina":
-                tvnama.setText("ANI I");
+                tvnama.setText("Vina");
                 tvnomor.setText("082222222222");
                 break;
             case "Gita":
-                tvnama.setText("ANU U");
+                tvnama.setText("Gita");
                 tvnomor.setText("082222222223");
                 break;
             case "Vian":
-                tvnama.setText("ANE E");
+                tvnama.setText("Vian");
                 tvnomor.setText("082222222224");
                 break;
             case "Luthfi":
-                tvnama.setText("ANO O");
+                tvnama.setText("Luthfi");
                 tvnomor.setText("082222222225");
                 break;
         }
